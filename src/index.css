@@ -79,4 +79,30 @@ button {
 
 .quote-card button {
   background: crimson;
+}.top-logo {
+  position: fixed;
+  top: 24px;
+  left: 32px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-circle {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: #1d4ed8;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 16px;
+}
+
+.logo-text {
+  font-size: 20px;
+  font-weight: 800;
+  color: #1e3a8a;
 }
