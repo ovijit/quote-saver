@@ -1,10 +1,9 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(135deg, #f3e8ff, #c084fc);
+  background: white;
   font-family: Arial, sans-serif;
 }
-
 #root {
   min-height: 100vh;
 }
